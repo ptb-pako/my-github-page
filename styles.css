@@ -43,10 +43,10 @@ main img {
 
 footer{
     background-color: #0f172a;
-    color: #94a3b8;
+    color: white;
     text-align: center;
-    padding: 20px;
-    position: fixed;
+    padding: 8px 20px;
+    font-size: 12px;
     bottom: 0;
     width: 100%;
 }
