@@ -1,14 +1,14 @@
 body {
     font-family:'Poppins', sans-serif;
     colour: white;
-    background color: #0f172a;
-    margin: 0;
+    background-color: #0f172a;
+     margin: 0;
     padding: 0;
     line-height: 1.6;
 }
 
 header{
-    background-color: #4caf50;
+    background-color: #4c74af;
     color: white;
     padding: 20px;
     text-align: center;
@@ -42,10 +42,10 @@ main img {
 }
 
 footer{
-    background-color: #333;
-    color: white;
+    background-color: #0f172a;
+    color: #94a3b8;
     text-align: center;
-    padding: 10px;
+    padding: 20px;
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -56,7 +56,7 @@ p{
 }
 
 a{
-    color: #4CAF50;
+    color: #4c74af;
     text-decoration: none;
 }
 
@@ -65,7 +65,7 @@ a:hover{
 }
 
 img{
-    border: 5px solid #4CAF50;
+    border: 5px solid #4c74af;
     border-radius: 10px;
 }
 
