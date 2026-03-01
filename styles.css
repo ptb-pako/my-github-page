@@ -1,7 +1,7 @@
 body {
-    font-family:Arial, sans-serif;
-    colour: #333;
-    background color: #f9f9f9;
+    font-family:'Poppins', sans-serif;
+    colour: white;
+    background color: #0f172a;
     margin: 0;
     padding: 0;
     line-height: 1.6;
@@ -21,11 +21,11 @@ header h1{
 nav a{
     color: white;
     text-description: none;
-    margin: 0 10px;
+    margin: 20px;
 }
 
 nav a:hover{
-text-decoration:underline;
+color: #2563eb;
 }
 
 main{ 
