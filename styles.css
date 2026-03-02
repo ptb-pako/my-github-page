@@ -73,3 +73,38 @@ main a[heref^="mailto:"] {
     color: #ff5722;
     font-weight: bold;
 }
+contact-form{
+    width: 300px
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #1e1e2f;
+    border-radius: 10px;
+    }
+
+    contact-form h2 {
+        text-align: center;
+        color: white;
+    }
+
+    contact-form input {
+      width: 100%;
+      padding: 8px;
+      margin-top: 5px;
+      border-radius: 5px;
+      border: none;
+    }
+
+    contact-form button {
+        width: 100%;
+        margin-top: 15px;
+        padding: 10px;
+        background-color: #4c74af;
+        border: none;
+        color: white;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    contact-form button:hover {
+        background-color: #4c74af;
+    }
