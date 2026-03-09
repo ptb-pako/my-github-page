@@ -120,8 +120,8 @@ font-size:16px;
 }
 
 .services-table th{
-background-color: white;
-color:#0077cc
+background-color: #0077cc;
+color:white;
 padding:14px;
 text-align:left;
 }
