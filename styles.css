@@ -75,12 +75,21 @@ main a[heref^="mailto:"] {
    }
 
    .thank-you{
-background-color: #007BFF;
+background-color: white;
 height: 100vh;
 display: flex;
 justify-content: center;
 align-items: center;
 }
+
+
+.thankyou-box {
+    background-color: white;
+    padding: 40px;
+    text-align: center;
+    border-radius: 10px;
+}
+
 
 .services{
 padding:60px 20px;
@@ -94,7 +103,7 @@ font-size:16px;
 }
 
 .services-table th{
-background-color:#333333;
+background: color #4c7af4;
 color:white;
 padding:14px;
 text-align:left;
