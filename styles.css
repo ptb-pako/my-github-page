@@ -74,11 +74,11 @@ main a[heref^="mailto:"] {
     font-weight: bold;
    }
 
-  .thank-you-container {
+  .thank-you {
 display: flex;
 justify-content: center;
 align-items: center;
-height: 80vh;
+height: 100vh;
   }
 .thankyou-box {
 background-color: #e6f2ff;
