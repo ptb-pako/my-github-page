@@ -12,9 +12,7 @@ header{
     color: white;
     padding: 20px;
     text-align: center;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    
 }
 
 header h1{
@@ -151,13 +149,6 @@ background-color:#f1f1f1;
 
 .project h3 {
     color: #004080;
-}
-
-.header{
-    display:flex;
-    align-items:center;
-    justify-content:space-between;
-    padding:20px;
 }
 
 .logo{
