@@ -149,3 +149,14 @@ background-color:#f1f1f1;
 .project h3 {
     color: #004080;
 }
+
+.header{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:20px;
+}
+
+.logo{
+    width:80px;
+}
