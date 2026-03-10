@@ -12,6 +12,9 @@ header{
     color: white;
     padding: 20px;
     text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 header h1{
@@ -158,6 +161,5 @@ background-color:#f1f1f1;
 }
 
 .logo{
-    width: 60px;
-    height: auto;
+    width: 70px;
 }
