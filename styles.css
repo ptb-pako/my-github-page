@@ -152,7 +152,8 @@ background-color:#f1f1f1;
 }
 
 .logo{
-    width: 100px;
+    width: 50%;
+    align-items: left;
 }
 
 .tech-office{
